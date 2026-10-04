@@ -2,7 +2,7 @@
 
 A hands-on, step-by-step RAG project built with **LangChain**, **ChromaDB** and the **Gemini API**. It starts with a basic ingestion and retrieval pipeline and builds up to advanced retrieval: history-aware queries, multi-query retrieval, Reciprocal Rank Fusion, hybrid (vector + BM25) search and reranking.
 
-![RAG architecture](assets/rag_architecture.png)
+![RAG architecture](/rag_architecture.png)
 
 ---
 
